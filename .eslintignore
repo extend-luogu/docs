@@ -1,0 +1,4 @@
+!.vuepress/
+!.*rc.*
+.temp/
+dist/
