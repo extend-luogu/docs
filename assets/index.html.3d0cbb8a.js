@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"extend-luogu",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6587\u6863",slug:"\u6587\u6863",children:[]}],git:{updatedTime:1652881802e3,contributors:[{name:"\u6C6A\u5FC3\u79BE",email:"wangxinhe06@gmail.com",commits:1}]},filePathRelative:"index.md"};export{e as data};
