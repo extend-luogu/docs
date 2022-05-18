@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Build docs
-        run: pnpm run --if-present docs:build
+        run: pnpm run --if-present build
       - name: ESLint
         run: pnpm eslint .
       - name: Prettier
